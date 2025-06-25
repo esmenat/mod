@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AF11E3-0051-4645-A6FA-74B69F5B63E8}|SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaDeVentasDeTicketsDeTrenIbarra.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistemadeventasdeticketsdetrenibarra\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AF11E3-0051-4645-A6FA-74B69F5B63E8}|SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaDeVentasDeTicketsDeTrenIbarra.csproj|solutionrelative:sistemadeventasdeticketsdetrenibarra\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\typepriceforuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\typepriceforuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|c:\\users\\junior tamayo\\desktop\\herramientas_tarea2bimestre\\sistemadeventasdeticketsdetrenibarra\\sistematickets.modelos\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D65E66-FEC1-4382-93B1-5034120141EB}|SistemaTickets.Modelos\\SistemaTickets.Modelos.csproj|solutionrelative:sistematickets.modelos\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaDeVentasDeTicketsDeTrenIbarra\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentasDeTicketsDeTrenIbarra\\Controllers\\RoutesController.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaDeVentasDeTicketsDeTrenIbarra\\Controllers\\RoutesController.cs*",
+              "RelativeToolTip": "SistemaDeVentasDeTicketsDeTrenIbarra\\Controllers\\RoutesController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAlwC4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:14:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Seat.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Seat.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Seat.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Seat.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:54:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Admin.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Admin.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Admin.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:41:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Reservation.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Reservation.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Reservation.cs",
+              "ViewState": "AgIAAA8AAADQ/////389wBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:37:02.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypePriceForUser.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\TypePriceForUser.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\TypePriceForUser.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\TypePriceForUser.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\TypePriceForUser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:35:58.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Route.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Route.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Route.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Route.cs",
+              "ViewState": "AgIAAAkAAADAzMzMzMwEwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:35:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Ticket.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Ticket.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Ticket.cs",
+              "ViewState": "AgIAAAsAAACQmZmZmRk7wBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:35:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Client.cs",
+              "RelativeDocumentMoniker": "SistemaTickets.Modelos\\Client.cs",
+              "ToolTip": "C:\\Users\\Junior Tamayo\\Desktop\\herramientas_tarea2bimestre\\SistemaDeVentasDeTicketsDeTrenIbarra\\SistemaTickets.Modelos\\Client.cs",
+              "RelativeToolTip": "SistemaTickets.Modelos\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:31:52.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
