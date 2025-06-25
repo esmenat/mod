@@ -9,3 +9,4 @@ C:\Users\Junior Tamayo\Desktop\herramientas_tarea2bimestre\SistemaDeVentasDeTick
 C:\Users\Junior Tamayo\Desktop\herramientas_tarea2bimestre\SistemaDeVentasDeTicketsDeTrenIbarra\SistemaTickets.Modelos\obj\Debug\net8.0\refint\SistemaTickets.Modelos.dll
 C:\Users\Junior Tamayo\Desktop\herramientas_tarea2bimestre\SistemaDeVentasDeTicketsDeTrenIbarra\SistemaTickets.Modelos\obj\Debug\net8.0\SistemaTickets.Modelos.pdb
 C:\Users\Junior Tamayo\Desktop\herramientas_tarea2bimestre\SistemaDeVentasDeTicketsDeTrenIbarra\SistemaTickets.Modelos\obj\Debug\net8.0\ref\SistemaTickets.Modelos.dll
+C:\Users\Junior Tamayo\Desktop\herramientas_tarea2bimestre\SistemaDeVentasDeTicketsDeTrenIbarra\SistemaTickets.Modelos\obj\Debug\net8.0\SistemaTickets.Modelos.sourcelink.json

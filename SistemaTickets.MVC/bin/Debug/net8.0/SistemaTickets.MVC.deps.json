@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaTickets.MVC/1.0.0": {
+        "dependencies": {
+          "SistemaTickets.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "SistemaTickets.MVC.dll": {}
+        }
+      },
+      "SistemaTickets.Modelos/1.0.0": {
+        "runtime": {
+          "SistemaTickets.Modelos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaTickets.MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaTickets.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemaTickets.Modelos;
+using Route = SistemaTickets.Modelos.Route;
 
 namespace SistemaDeVentasDeTicketsDeTrenIbarra.Controllers
 {
