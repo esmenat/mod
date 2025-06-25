@@ -8,10 +8,11 @@
 
   <ItemGroup>
     <Folder Include="Views\TypePriceForUsers\" />
-    <Folder Include="Views\Reservations\" />
     <Folder Include="Views\Tickets\" />
-    <Folder Include="Views\Seats\" />
-    <Folder Include="Views\Routes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
   <ItemGroup>

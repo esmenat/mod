@@ -29,6 +29,23 @@ namespace SistemaTickets.MVC
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+            // Ruta para RoutesController
+            app.MapControllerRoute(
+                name: "routes",
+                pattern: "Routes/{action=ViewRoute}/{id?}",
+                defaults: new { controller = "Routes" });
+            // Ruta para SeatsController (añadida)
+            app.MapControllerRoute(
+                name: "seats",
+                pattern: "Seats/{action=ViewSeats}/{id?}",
+                defaults: new { controller = "Seats" });
+            // Asegúrate de agregar la ruta específica para el controlador de reservas si es necesario
+            app.MapControllerRoute(
+                name: "reservations",
+                pattern: "Reservations/{action=Create}/{id?}", // Ruta para la acción 'Create' de 'ReservationsController'
+                defaults: new { controller = "Reservations" }
+            );
+
 
             app.Run();
         }

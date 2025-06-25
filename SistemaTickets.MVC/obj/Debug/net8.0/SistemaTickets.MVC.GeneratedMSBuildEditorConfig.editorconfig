@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaTickets.MVC
 build_property.RootNamespace = SistemaTickets.MVC
@@ -34,6 +42,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Routes/ViewRoutes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm91dGVzXFZpZXdSb3V0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Seats/ViewSeats.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdHNcVmlld1NlYXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Junior Tamayo/Desktop/herramientas_tarea2bimestre/SistemaDeVentasDeTicketsDeTrenIbarra/SistemaTickets.MVC/Views/Shared/Error.cshtml]

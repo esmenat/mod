@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemaTickets.Modelos;
 
+
 namespace SistemaDeVentasDeTicketsDeTrenIbarra.Controllers
 {
     [Route("api/[controller]")]

@@ -5,12 +5,12 @@ namespace SistemaTickets.MVC.Controllers
 {
     public class SeatsController : Controller
     {
-        // GET: SeatsController
-        public ActionResult Index()
+        public IActionResult ViewSeats()
         {
             return View();
         }
-
+        // GET: SeatsController
+      
         // GET: SeatsController/Details/5
         public ActionResult Details(int id)
         {

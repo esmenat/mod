@@ -5,10 +5,10 @@ namespace SistemaTickets.MVC.Controllers
 {
     public class RoutesController : Controller
     {
-        // GET: RoutesController
-        public ActionResult Index()
+
+        public IActionResult ViewRoute()
         {
-            return View();
+            return View("ViewRoutes");
         }
 
         // GET: RoutesController/Details/5

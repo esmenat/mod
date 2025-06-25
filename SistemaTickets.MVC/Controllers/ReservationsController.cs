@@ -1,26 +1,25 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SistemaTickets.Modelos;
 
 namespace SistemaTickets.MVC.Controllers
 {
     public class ReservationsController : Controller
     {
-        // GET: ReservationsController
-        public ActionResult Index()
+        [HttpGet]
+        public IActionResult Create()
         {
-            return View();
+            return View();  // Esto devolverá la vista Create.cshtml
         }
 
-        // GET: ReservationsController/Details/5
-        public ActionResult Details(int id)
+        // Acción para manejar la lógica de creación de reserva
+        [HttpPost]
+        public IActionResult Create(Reservation reservation)
         {
-            return View();
-        }
+            // Lógica para guardar la reserva y el ticket en la base de datos
+            // ...
 
-        // GET: ReservationsController/Create
-        public ActionResult Create()
-        {
-            return View();
+            return RedirectToAction("Index"); // Redirigir a la lista de reservas después de la creación
         }
 
         // POST: ReservationsController/Create

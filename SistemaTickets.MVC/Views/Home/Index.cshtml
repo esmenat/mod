@@ -7,9 +7,11 @@
     <p>Select a route and seat to reserve your ticket!</p>
 
     <div class="btn-group-vertical" role="group" aria-label="Ticket Actions">
-        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='@Url.Action("SelectRoute", "Ticket")'">Select Route</button>
-        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='@Url.Action("ViewSeatAvailability", "Ticket")'">View Seat Available</button>
-        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='@Url.Action("ReserveSeat", "Ticket")'">Reserve a Seat</button>
+
+        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='https://localhost:7019/Routes/ViewRoute'">View Routes</button>
+        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='https://localhost:7019/Seats/ViewSeats'">View Seat </button>
+        <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='https://localhost:7019/Reservations/Create'">Reserve</button>
+
         <button type="button" class="btn btn-primary ticket-btn" onclick="window.location.href='@Url.Action("ViewStatusReservation", "Ticket")'">View Status Reservation</button>
 
 
