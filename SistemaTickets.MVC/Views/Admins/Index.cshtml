@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>
+    @ViewData["Title"]
+</h2>
+
+<p>
+    Welcome, @ViewData["AdminEmail"]!
+</p>
+<p>
+    Here you can manage the tickets, reservations, and other settings for the system.
+</p>
+
+<!-- Agregar enlaces o botones para acciones adicionales -->
+<a href="/Route/Manage" class="btn btn-primary">Manage Routes</a>
+<a href="/Ticket/Manage" class="btn btn-primary">Manage Tickets</a>
+<a href="/Reservation/Manage" class="btn btn-primary">Manage Reservations</a>

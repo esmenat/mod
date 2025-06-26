@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Select Role to Login";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Select your role to login:</p>
+
+<!-- Botón para Admin -->
+<a href="@Url.Action("Login", "Admins")" class="btn btn-primary btn-lg">Login as Admin</a>
+
+<!-- Botón para Cliente -->
+<a href="@Url.Action("Login", "Clients")" class="btn btn-secondary btn-lg">Login as Client</a>

@@ -1,11 +1,11 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -13,33 +13,94 @@ html {
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #f4f6f9; /* Adds a subtle background color to the body */
+    font-family: 'Arial', sans-serif; /* Uses a readable font */
+    padding: 20px; /* Added padding to the body */
 }
+
+/* Style for the form container */
+.container {
+    max-width: 500px;
+    margin-top: 50px; /* Top margin for spacing */
+    background-color: white; /* White background for the form */
+    padding: 30px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for the form */
+    margin-bottom: 30px; /* Added margin at the bottom */
+}
+
+/* Style for form fields */
+.form-control {
+    border-radius: 5px; /* Rounded corners for fields */
+    padding: 10px;
+    font-size: 16px; /* Adequate font size */
+    margin-bottom: 20px; /* Spacing between fields */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Soft shadow on fields */
+}
+
+/* Styles for the buttons */
 .ticket-btn {
     margin-bottom: 15px; /* Adds space between buttons */
-    font-size: 16px; /* Adjusts font size for readability */
-    padding: 15px 30px; /* Adds padding inside the button for better size */
-    width: 100%; /* Makes the buttons stretch to fit the container width */
-    border-radius: 8px; /* Adds rounded corners to the buttons */
+    font-size: 16px; /* Adjust font size for better readability */
+    padding: 12px 30px; /* Adjusts the size of the button */
+    width: 100%; /* Makes the buttons stretch across the full width */
+    border-radius: 8px; /* Rounded corners */
     transition: all 0.3s ease; /* Smooth transition for hover effects */
+    background-color: #3498db; /* Base color for the button */
+    color: white;
+    border: none; /* No border */
+    text-align: center; /* Centers the text within the button */
 }
 
+    /* Hover effects */
     .ticket-btn:hover {
-        background-color: #f1c40f; /* Changes color when the button is hovered */
-        transform: scale(1.05); /* Slightly enlarges the button on hover */
+        background-color: #f1c40f; /* Changes the button color on hover */
+        transform: scale(1.05); /* Slightly increases the size when hovered */
     }
 
-.btn-success {
-    background-color: #2ecc71; /* Changes the Pay Seat button to green */
-    border-color: #28a745;
+/* Specific button styles */
+.login-btn {
+    background-color: #3498db; /* Blue for login */
+    margin-bottom: 10px; /* Adds margin between login button and other elements */
 }
 
-    .btn-success:hover {
-        background-color: #5dade2; /* Darker green on hover */
-        border-color: #1e7e34;
+.register-btn {
+    background-color: #2ecc71; /* Green for registration */
+    margin-bottom: 10px; /* Adds margin between register button and other elements */
+}
+
+.ticket-btn:focus {
+    outline: none; /* Removes the default outline */
+    box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.5); /* Shadow when the button is focused */
+}
+
+/* Style for links */
+a {
+    color: #3498db;
+    text-decoration: none; /* Removes underline from links */
+    display: inline-block;
+    margin-top: 10px; /* Adds margin on top of the link */
+}
+
+    a:hover {
+        text-decoration: underline; /* Underlines the link when hovered */
     }
+
+/* Adds spacing between fields and buttons */
+p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Alignment and size for titles */
+h2 {
+    text-align: center;
+    font-size: 2rem; /* Centered title */
+    margin-bottom: 30px; /* Bottom margin */
+}

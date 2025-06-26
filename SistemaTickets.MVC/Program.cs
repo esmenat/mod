@@ -9,6 +9,18 @@ namespace SistemaTickets.MVC
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            // Agregar el servicio HttpClient
+            builder.Services.AddHttpClient();
+
+            // Agregar almacenamiento en memoria para las sesiones
+            builder.Services.AddDistributedMemoryCache();
+
+            // Configuración de sesión (Tiempo de expiración, 10 minutos)
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(10);
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -22,13 +34,18 @@ namespace SistemaTickets.MVC
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            app.UseSession();
+
             app.UseRouting();
 
             app.UseAuthorization();
 
             app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                 name: "default",
+                 pattern: "{controller=Start}/{action=Index}/{id?}"); 
+            app.MapControllerRoute(
+                 name: "default",
+                 pattern: "{controller=Home}/{action=Index}/{id?}"); 
             // Ruta para RoutesController
             app.MapControllerRoute(
                 name: "routes",
